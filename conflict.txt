@@ -1,0 +1,2 @@
+conflict.txt
+with different content in both the feature-branch2 branch and the main
